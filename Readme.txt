@@ -1,7 +1,8 @@
 LM4Tools Homebrew Tap
 
-    brew tap cloud-v/icestorm
-    brew install donn/lm4tools
+    brew install donn/lm4tools/lm4tools
+
+    (TIP: ARM GCC can be found at "ArmMbed/homebrew-formulae/arm-none-eabi-gcc")
 
 License
 

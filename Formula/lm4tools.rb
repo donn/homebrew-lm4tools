@@ -6,7 +6,6 @@ class Lm4tools < Formula
     head "https://github.com/utzig/lm4toolsm"
     version "0.1.3"
 
-    depends_on "ArmMbed/homebrew-formulae/arm-none-eabi-gcc"
     depends_on "pkg-config"
     depends_on "libusb"
 
